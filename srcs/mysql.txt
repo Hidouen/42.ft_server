@@ -1,0 +1,4 @@
+CREATE USER 'jean'@'localhost';
+CREATE DATABASE bon;
+GRANT ALL PRIVILEGES ON bon.* TO 'jean'@'localhost' identified by '1234';
+FLUSH PRIVILEGES;

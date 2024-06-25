@@ -1,1 +1,5 @@
-# 42project.ft_server
+# ft_server
+
+### A 42 school project
+
+The goal of ft_server is to create a web server with Nginx capable of running a WordPress website, phpMyAdmin, and a MySQL database. This server will run in only one Docker container, under Debian Buster.
